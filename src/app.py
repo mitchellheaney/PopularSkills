@@ -137,8 +137,8 @@ def data_viz_page():
     # print dataset stats
     len_at = str(len(data))
     len_today = str(len(skills_daily(data)))
-    st.markdown(f"Data Entries since application launch **:blue[{len_at}]**" + '\n\n')
-    st.markdown(f"Data Entries since today **:blue[{len_today}]**" + '\n\n')
+    st.markdown(f"Data Entries since application launch -->  **:blue[{len_at}]**" + '\n\n')
+    st.markdown(f"Data Entries since today -->  **:blue[{len_today}]**" + '\n\n')
             
             
 def info():

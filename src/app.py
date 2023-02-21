@@ -146,7 +146,7 @@ def info():
     
     st.markdown('# Tools Used :wrench:' + '\n')
     
-    st.markdown('Data Source:   ' + 'Serp Api')
+    st.markdown('Data Source:   ' + 'SerpAPI')
     st.markdown('Data Storage:   ' + 'AWS S3')
     
 

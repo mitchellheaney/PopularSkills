@@ -16,7 +16,7 @@ This yields realistic and up-to-date data for users.
 ## How to Run:
 Press the image!
 
-[![PopularSkills](src/streamlit2.PNG)](https://mitchellheaney-popularskills-srcapp-79a2o0.streamlit.app/)
+[![PopularSkills](src/streamlit2.PNG)](https://mitchellheaney-popular-skills-srcapp-z5x6o6.streamlit.app/)
 
 ## Problem to Solve: :monocle_face:
 

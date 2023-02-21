@@ -53,4 +53,4 @@ class EAnalysis:
             
             skills.append(key_entries)
             
-        return skills
+        return list(skills)

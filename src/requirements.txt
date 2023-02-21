@@ -1,0 +1,8 @@
+streamlit
+pandas
+altair
+datetime
+datetime
+boto3
+botocore
+google-search-results==2.4.1

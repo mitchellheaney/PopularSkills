@@ -67,9 +67,6 @@ def data_viz_page():
     data = Importer()
     data = data.import_data(st.secrets["api_key"], st.secrets["aws_access_key_id"], st.secrets["aws_secret_access_key"], st.secrets['bucket_name'])
 
-    #st.dataframe(pd.read_csv('jobs_df.csv', index_col=0))
-    #print(jobs_all['skills_found'].tolist()[2][0])
-
     # body text
     st.markdown("## 🛠️ What are the Top Data Analyst Skills?")
 
